@@ -1,0 +1,6 @@
+pandas>=2.0
+scikit-learn>=1.4
+nltk>=3.8
+PyQt6>=6.6
+re>=2.0
+pickle
